@@ -33,7 +33,7 @@ defmodule BlockScoutWeb.LayoutViewTest do
     end
 
     test "use the default subnetwork title when there is no env configured for it" do
-      assert LayoutView.subnetwork_title() == "Cronos"
+      assert LayoutView.subnetwork_title() == "roar"
     end
   end
 

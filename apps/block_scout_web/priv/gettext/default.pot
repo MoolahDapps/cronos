@@ -651,7 +651,7 @@ msgstr ""
 
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_footer.html.eex:59
-msgid "Cronos Website"
+msgid "Roar Website"
 msgstr ""
 
 #, elixir-format
@@ -959,7 +959,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/chain/_metatags.html.eex:5
 #: lib/block_scout_web/templates/chain/_metatags.html.eex:9 lib/block_scout_web/templates/chain/_metatags.html.eex:17
-msgid "Find out the latest blocks and transactions with Cronos Explorer to find the price,average block time, total transactions, total blocks, wallet addresses and more."
+msgid "Find out the latest blocks and transactions with roar Explorer to find the price,average block time, total transactions, total blocks, wallet addresses and more."
 msgstr ""
 
 #, elixir-format
@@ -2571,7 +2571,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/chain/_metatags.html.eex:2
 #: lib/block_scout_web/templates/chain/_metatags.html.eex:8 lib/block_scout_web/templates/chain/_metatags.html.eex:16
-msgid "Cronos | cronos.org EVM Chain | Explorer"
+msgid "roar | roar.org EVM Chain | Explorer"
 msgstr ""
 
 #, elixir-format
@@ -2605,7 +2605,7 @@ msgstr ""
 
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_footer.html.eex:25
-msgid " CRO Protocol Labs. All rights reserved."
+msgid " DioraDAO. All rights reserved."
 msgstr ""
 
 #, elixir-format
