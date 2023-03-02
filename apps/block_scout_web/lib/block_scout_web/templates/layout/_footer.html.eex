@@ -27,16 +27,16 @@
           <a href="https://github.com/blockscout/blockscout" rel="noreferrer" class="footer-link" target="_blank"><%= gettext(" Powered by Blockscout") %></a>
         </p>
         <div class="footer-social-icons">
-          <a href="https://github.com/crypto-org-chain/roar-blockscout" rel="noreferrer" target="_blank" class="footer-social-icon" title='<%= gettext("Github") %>'>
+          <a href="https://github.com/" rel="noreferrer" target="_blank" class="footer-social-icon" title='<%= gettext("Github") %>'>
             <i class="fab fa-github"></i>
           </a>
-          <a href="https://twitter.com/roar_chain" rel="noreferrer" target="_blank" class="footer-social-icon" title='<%= gettext("Twitter") %>'>
+          <a href="https://twitter.com/roarnetwork" rel="noreferrer" target="_blank" class="footer-social-icon" title='<%= gettext("Twitter") %>'>
             <i class="fab fa-twitter"></i>
           </a>
-          <a href="https://t.me/Cryptoorg_Chain_Announcements" rel="noreferrer" target="_blank" class="footer-social-icon" title='<%= gettext("Telegram") %>'>
+          <a href="https://t.me/roarnetwork" rel="noreferrer" target="_blank" class="footer-social-icon" title='<%= gettext("Telegram") %>'>
             <i class="fab fa-telegram-plane"></i>
           </a>
-          <a href="https://discord.com/invite/pahqHz26q4" rel="noreferrer" target="_blank" class="footer-social-icon" title='<%= gettext("Discord") %>'>
+          <a href="https://discord.com/invite/roarnetwork" rel="noreferrer" target="_blank" class="footer-social-icon" title='<%= gettext("Discord") %>'>
             <i class="fab fa-discord"></i>
           </a>
         </div>
